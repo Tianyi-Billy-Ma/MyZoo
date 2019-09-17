@@ -1,16 +1,7 @@
-public class Tigher extends Feline{
+public class Tiger extends Feline{
+		//public String sleep(){return  "The tigher is sleeps";}
 		@Override
-		public void sleep()
-		{
-				System.out.println( "The tigher is sleeps");
-		}
-		@Override
-		public void roam()
-		{
-				System.out.println( "The tigher os roaming");
-		}
-		public void makeNoise()
-		{
-				System.out.println("The tiger makes noise");
-		}
+		public String roam(){return "The tigher os roaming";}
+		public String makeNoise(){return "The tiger makes noise";}
+		public String getType(){return "Tiger";}
 }

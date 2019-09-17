@@ -1,0 +1,342 @@
+Hi, I'm Tianyi, the zookeeper.
+------------------------------------------
+Responsibilities 1: wake the animals
+1.Tianyi wake up Lily
+Lily is a Lion
+Lily's species is Feline
+Lily's response: This Lion is wake up
+2.Tianyi wake up Liam
+Liam is a Lion
+Liam's species is Feline
+Liam's response: This Lion is wake up
+3.Tianyi wake up Harry
+Harry is a Hippo
+Harry's species is Pachyderm
+Harry's response: This animal is wake up
+4.Tianyi wake up Hulk
+Hulk is a Hippo
+Hulk's species is Pachyderm
+Hulk's response: This animal is wake up
+5.Tianyi wake up David
+David is a Dog
+David's species is Canine
+David's response: This animal is wake up
+6.Tianyi wake up Dylan
+Dylan is a Dog
+Dylan's species is Canine
+Dylan's response: This animal is wake up
+7.Tianyi wake up Cathey
+Cathey is a Cat
+Cathey's species is Feline
+Cathey's response: This cat doesn't want to wake up
+8.Tianyi wake up Clark
+Clark is a Cat
+Clark's species is Feline
+Clark's response: This cat doesn't want to wake up
+9.Tianyi wake up Emily
+Emily is a Elephant
+Emily's species is Pachyderm
+Emily's response: This animal is wake up
+10.Tianyi wake up Eason
+Eason is a Elephant
+Eason's species is Pachyderm
+Eason's response: This animal is wake up
+11.Tianyi wake up Walt
+Walt is a Wolf
+Walt's species is Canine
+Walt's response: This animal is wake up
+12.Tianyi wake up Whiteside
+Whiteside is a Wolf
+Whiteside's species is Canine
+Whiteside's response: This animal is wake up
+13.Tianyi wake up Tom
+Tom is a Tiger
+Tom's species is Feline
+Tom's response: This animal is wake up
+14.Tianyi wake up Tiana
+Tiana is a Tiger
+Tiana's species is Feline
+Tiana's response: This animal is wake up
+15.Tianyi wake up Roy
+Roy is a Rhino
+Roy's species is Pachyderm
+Roy's response: This animal is wake up
+16.Tianyi wake up Richard
+Richard is a Rhino
+Richard's species is Pachyderm
+Richard's response: This animal is wake up
+
+------------------------------------------
+
+Responsibilities 2: roll call the animals
+1.Tianyi roll call Lily
+Lily is a Lion
+Lily's species is Feline
+Lily's response: The Lion makes noise
+2.Tianyi roll call Liam
+Liam is a Lion
+Liam's species is Feline
+Liam's response: The Lion makes noise
+3.Tianyi roll call Harry
+Harry is a Hippo
+Harry's species is Pachyderm
+Harry's response: The Hippo makes noise
+4.Tianyi roll call Hulk
+Hulk is a Hippo
+Hulk's species is Pachyderm
+Hulk's response: The Hippo makes noise
+5.Tianyi roll call David
+David is a Dog
+David's species is Canine
+David's response: The Dog makes noise
+6.Tianyi roll call Dylan
+Dylan is a Dog
+Dylan's species is Canine
+Dylan's response: The Dog makes noise
+7.Tianyi roll call Cathey
+Cathey is a Cat
+Cathey's species is Feline
+Cathey's response: The Cat makes noise
+8.Tianyi roll call Clark
+Clark is a Cat
+Clark's species is Feline
+Clark's response: The Cat makes noise
+9.Tianyi roll call Emily
+Emily is a Elephant
+Emily's species is Pachyderm
+Emily's response: The Elephant makes noise
+10.Tianyi roll call Eason
+Eason is a Elephant
+Eason's species is Pachyderm
+Eason's response: The Elephant makes noise
+11.Tianyi roll call Walt
+Walt is a Wolf
+Walt's species is Canine
+Walt's response: The Wolf makes noise
+12.Tianyi roll call Whiteside
+Whiteside is a Wolf
+Whiteside's species is Canine
+Whiteside's response: The Wolf makes noise
+13.Tianyi roll call Tom
+Tom is a Tiger
+Tom's species is Feline
+Tom's response: The tiger makes noise
+14.Tianyi roll call Tiana
+Tiana is a Tiger
+Tiana's species is Feline
+Tiana's response: The tiger makes noise
+15.Tianyi roll call Roy
+Roy is a Rhino
+Roy's species is Pachyderm
+Roy's response: The Rhino makes noise
+16.Tianyi roll call Richard
+Richard is a Rhino
+Richard's species is Pachyderm
+Richard's response: The Rhino makes noise
+
+------------------------------------------
+
+Responsibilities 3: feed the animals
+1.Tianyi feed Lily
+Lily is a Lion
+Lily's species is Feline
+Lily's response: This animal is eating
+2.Tianyi feed Liam
+Liam is a Lion
+Liam's species is Feline
+Liam's response: This animal is eating
+3.Tianyi feed Harry
+Harry is a Hippo
+Harry's species is Pachyderm
+Harry's response: This animal is eating
+4.Tianyi feed Hulk
+Hulk is a Hippo
+Hulk's species is Pachyderm
+Hulk's response: This animal is eating
+5.Tianyi feed David
+David is a Dog
+David's species is Canine
+David's response: This animal is eating
+6.Tianyi feed Dylan
+Dylan is a Dog
+Dylan's species is Canine
+Dylan's response: This animal is eating
+7.Tianyi feed Cathey
+Cathey is a Cat
+Cathey's species is Feline
+Cathey's response: This animal is eating
+8.Tianyi feed Clark
+Clark is a Cat
+Clark's species is Feline
+Clark's response: This animal is eating
+9.Tianyi feed Emily
+Emily is a Elephant
+Emily's species is Pachyderm
+Emily's response: This animal is eating
+10.Tianyi feed Eason
+Eason is a Elephant
+Eason's species is Pachyderm
+Eason's response: This animal is eating
+11.Tianyi feed Walt
+Walt is a Wolf
+Walt's species is Canine
+Walt's response: This animal is eating
+12.Tianyi feed Whiteside
+Whiteside is a Wolf
+Whiteside's species is Canine
+Whiteside's response: This animal is eating
+13.Tianyi feed Tom
+Tom is a Tiger
+Tom's species is Feline
+Tom's response: This animal is eating
+14.Tianyi feed Tiana
+Tiana is a Tiger
+Tiana's species is Feline
+Tiana's response: This animal is eating
+15.Tianyi feed Roy
+Roy is a Rhino
+Roy's species is Pachyderm
+Roy's response: This animal is eating
+16.Tianyi feed Richard
+Richard is a Rhino
+Richard's species is Pachyderm
+Richard's response: This animal is eating
+
+------------------------------------------
+
+Responsibilities 3: exercise the animals
+1.Tianyi train Lily
+Lily is a Lion
+Lily's species is Feline
+Lily's response: This Lion is roaming
+2.Tianyi train Liam
+Liam is a Lion
+Liam's species is Feline
+Liam's response: This Lion is roaming
+3.Tianyi train Harry
+Harry is a Hippo
+Harry's species is Pachyderm
+Harry's response: The Hippo os roaming
+4.Tianyi train Hulk
+Hulk is a Hippo
+Hulk's species is Pachyderm
+Hulk's response: The Hippo os roaming
+5.Tianyi train David
+David is a Dog
+David's species is Canine
+David's response: The Dog is roaming
+6.Tianyi train Dylan
+Dylan is a Dog
+Dylan's species is Canine
+Dylan's response: The Dog is roaming
+7.Tianyi train Cathey
+Cathey is a Cat
+Cathey's species is Feline
+Cathey's response: This Cat is roaming
+8.Tianyi train Clark
+Clark is a Cat
+Clark's species is Feline
+Clark's response: This Cat is roaming
+9.Tianyi train Emily
+Emily is a Elephant
+Emily's species is Pachyderm
+Emily's response: The Elephant os roaming
+10.Tianyi train Eason
+Eason is a Elephant
+Eason's species is Pachyderm
+Eason's response: The Elephant os roaming
+11.Tianyi train Walt
+Walt is a Wolf
+Walt's species is Canine
+Walt's response: The Wolf os roaming
+12.Tianyi train Whiteside
+Whiteside is a Wolf
+Whiteside's species is Canine
+Whiteside's response: The Wolf os roaming
+13.Tianyi train Tom
+Tom is a Tiger
+Tom's species is Feline
+Tom's response: The tigher os roaming
+14.Tianyi train Tiana
+Tiana is a Tiger
+Tiana's species is Feline
+Tiana's response: The tigher os roaming
+15.Tianyi train Roy
+Roy is a Rhino
+Roy's species is Pachyderm
+Roy's response: The Rhino os roaming
+16.Tianyi train Richard
+Richard is a Rhino
+Richard's species is Pachyderm
+Richard's response: The Rhino os roaming
+
+------------------------------------------
+
+Responsibilities 5: shut down the Zoo
+1.Tianyi let Lily go to sleep
+Lily is a Lion
+Lily's species is Feline
+Lily's response: This Feline sleeps
+2.Tianyi let Liam go to sleep
+Liam is a Lion
+Liam's species is Feline
+Liam's response: This Feline sleeps
+3.Tianyi let Harry go to sleep
+Harry is a Hippo
+Harry's species is Pachyderm
+Harry's response: This Pachyderm sleeps
+4.Tianyi let Hulk go to sleep
+Hulk is a Hippo
+Hulk's species is Pachyderm
+Hulk's response: This Pachyderm sleeps
+5.Tianyi let David go to sleep
+David is a Dog
+David's species is Canine
+David's response: This Canine sleeps
+6.Tianyi let Dylan go to sleep
+Dylan is a Dog
+Dylan's species is Canine
+Dylan's response: This Canine sleeps
+7.Tianyi let Cathey go to sleep
+Cathey is a Cat
+Cathey's species is Feline
+Cathey's response: This Feline sleeps
+8.Tianyi let Clark go to sleep
+Clark is a Cat
+Clark's species is Feline
+Clark's response: This Feline sleeps
+9.Tianyi let Emily go to sleep
+Emily is a Elephant
+Emily's species is Pachyderm
+Emily's response: This Pachyderm sleeps
+10.Tianyi let Eason go to sleep
+Eason is a Elephant
+Eason's species is Pachyderm
+Eason's response: This Pachyderm sleeps
+11.Tianyi let Walt go to sleep
+Walt is a Wolf
+Walt's species is Canine
+Walt's response: This Canine sleeps
+12.Tianyi let Whiteside go to sleep
+Whiteside is a Wolf
+Whiteside's species is Canine
+Whiteside's response: This Canine sleeps
+13.Tianyi let Tom go to sleep
+Tom is a Tiger
+Tom's species is Feline
+Tom's response: This Feline sleeps
+14.Tianyi let Tiana go to sleep
+Tiana is a Tiger
+Tiana's species is Feline
+Tiana's response: This Feline sleeps
+15.Tianyi let Roy go to sleep
+Roy is a Rhino
+Roy's species is Pachyderm
+Roy's response: This Pachyderm sleeps
+16.Tianyi let Richard go to sleep
+Richard is a Rhino
+Richard's species is Pachyderm
+Richard's response: This Pachyderm sleeps
+
+------------------------------------------
+

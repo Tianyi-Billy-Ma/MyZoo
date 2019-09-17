@@ -1,11 +1,8 @@
 public abstract class Feline extends Animal{
-		public void roam()
-		{
-			System.out.println("This Feline is roaming");
-		}
 		@Override
-		public void sleep()
-		{
-				System.out.println("This Feline sleeps");
-		}
+		public String roam(){return "This Feline is roaming";}
+		@Override
+		public String sleep(){return "This Feline sleeps";}
+		@Override
+		public String getspecies(){return "Feline";}
 }

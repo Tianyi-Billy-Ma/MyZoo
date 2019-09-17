@@ -1,16 +1,7 @@
 public class Rhino extends Pachyderm{
+		//public String sleep(){return  "The Rhino is sleeps";}
 		@Override
-		public void sleep()
-		{
-				System.out.println( "The Rhino is sleeps");
-		}
-		@Override
-		public void roam()
-		{
-				System.out.println( "The Rhino os roaming");
-		}
-		public void makeNoise()
-		{
-				System.out.println("The Rhino makes noise");
-		}
+		public String roam(){ return "The Rhino os roaming";}
+		public String makeNoise(){return "The Rhino makes noise";}
+		public String getType(){return "Rhino";}
 }

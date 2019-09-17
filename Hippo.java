@@ -1,16 +1,7 @@
 public class Hippo extends Pachyderm{
+		//public String sleep(){return "The Hippo is sleeps";}
 		@Override
-		public void sleep()
-		{
-				System.out.println( "The Hippo is sleeps");
-		}
-		@Override
-		public void roam()
-		{
-				System.out.println( "The Hippo os roaming");
-		}
-		public void makeNoise()
-		{
-				System.out.println("The Hippo makes noise");
-		}
+		public String roam(){return "The Hippo os roaming";}
+		public String makeNoise(){return "The Hippo makes noise";}
+		public String getType(){return "Hippo";}
 }

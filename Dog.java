@@ -1,16 +1,7 @@
 public class Dog extends Canine{
+		//public String sleep(){return "The Dog is sleeps";}
 		@Override
-		public void sleep()
-		{
-				System.out.println( "The Dog is sleeps");
-		}
-		@Override
-		public void roam()
-		{
-				System.out.println( "The Dog os roaming");
-		}
-		public void makeNoise()
-		{
-				System.out.println("The Dog makes noise");
-		}
+		public String roam(){return "The Dog is roaming";}
+		public String makeNoise(){return "The Dog makes noise";}
+		public String getType(){return "Dog";}
 }
