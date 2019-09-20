@@ -1,8 +1,10 @@
 import java.util.Arrays;
 import java.util.List;
+//Main Running program.
 abstract class running{
 	public static void main(String[] args){
     Animal[] animals = new Animal[16];
+		// Give name to each animal
     List<String> animals_name_list = Arrays.asList("Lily","Liam","Harry","Hulk","David","Dylan","Cathey","Clark","Emily","Eason","Walt","Whiteside","Tom","Tiana","Roy","Richard");
     for(int i = 0 ; i < 16; i++)
     {
@@ -58,7 +60,7 @@ abstract class running{
     System.out.println("Responsibilities 1: wake the animals");
     for(int i = 0; i < 16;i++)
     {
-      System.out.print((i+1)+".");
+      System.out.print((i+1)+".");  //Index
       billy.wakeTheAnimal(animals[i]);
       System.out.println(animals[i].getName() + " is a " + animals[i].getType());
       System.out.println(animals[i].getName() + "'s species is " + animals[i].getspecies());

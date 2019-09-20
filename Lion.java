@@ -1,4 +1,5 @@
 public class Lion extends Feline{
+		//subclass of feline
 		//public String sleep(){return "This Lion sleeps";		}
 		@Override
 		public String roam(){return "This Lion is roaming";}
