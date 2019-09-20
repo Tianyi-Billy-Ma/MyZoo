@@ -2,6 +2,7 @@ public class Zookeeper{
 	public void selfIntroduce(){
 		System.out.println("Hi, I'm Tianyi, the zookeeper.");
 	}
+	//tmp is the temperate animal that I would do some activities
 	public void wakeTheAnimal(Animal tmp){
 		System.out.println("Tianyi wake up " + tmp.getName());
 	}
